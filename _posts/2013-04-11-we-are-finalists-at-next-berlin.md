@@ -21,6 +21,6 @@ If you happen to be attending NEXT Berlin, ping me if you'd like to meet!
 (@dessaigne on twitter, or nicolas at algolia dot com).
 
 
-[1]: /algoliasearch-jekyll-hyde/assets/NextBerlin-300x155.png
+[1]: /assets/NextBerlin-300x155.png
 [2]: http://nextberlin.eu/
 [3]: http://nextberlin.eu/2013/04/next13-start-up-pitch-these-are-the-12-finalists/

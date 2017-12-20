@@ -60,8 +60,8 @@ competitive edge I was looking for."
 
 [1]: http://concertwith.me/
 [2]: https://www.algolia.com/doc#Multilingual
-[3]: /algoliasearch-jekyll-hyde/assets/search.gif
+[3]: /assets/search.gif
 [4]: http://faq.algolia.com/basics/what-is-faceting/
-[5]: /algoliasearch-jekyll-hyde/assets/recommendations.gif
+[5]: /assets/recommendations.gif
 [6]: http://insideintercom.io/7-things-wish-every-search-did/
 [7]: https://www.algolia.com/doc/tutorials

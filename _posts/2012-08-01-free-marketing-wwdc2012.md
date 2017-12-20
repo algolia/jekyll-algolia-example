@@ -51,5 +51,5 @@ content/uploads/2012/07/wwdc2.jpg)Thank you again for your help Thomas!
 [3]: http://blog.algolia.com/were-participating-to-the-evernote-devcup/
 [4]: https://www.google.com/search?q=mobile+instant+suggest
 [5]: http://blog.algolia.com/great-discussions-at-leweb12-london/
-[6]: /algoliasearch-jekyll-hyde/assets/wwdc1.jpg
-[7]: /algoliasearch-jekyll-hyde/assets/wwdc2.jpg
+[6]: /assets/wwdc1.jpg
+[7]: /assets/wwdc2.jpg

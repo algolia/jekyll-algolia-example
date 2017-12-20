@@ -81,6 +81,6 @@ _Images courtesy of JadoPado. Learn more on their
 
 
 [1]: https://jadopado.com/
-[2]: /algoliasearch-jekyll-hyde/assets/Omar-Kassim-Founder-of-JadoPado-Image-2-1.jpg
-[3]: /algoliasearch-jekyll-hyde/assets/jadopado.gif
+[2]: /assets/Omar-Kassim-Founder-of-JadoPado-Image-2-1.jpg
+[3]: /assets/jadopado.gif
 [4]: https://jadopado.com/

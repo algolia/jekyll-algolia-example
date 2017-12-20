@@ -22,5 +22,5 @@ advice][4]
 
 [1]: http://www.rudebaguette.com/2012/11/30/here-are-the-20-startups-selected-for-seedcamp-paris/
 [2]: http://paris.leweb.co/
-[3]: /algoliasearch-jekyll-hyde/assets/seedcamp.png
+[3]: /assets/seedcamp.png
 [4]: http://blog.algolia.com/seedcamp-tips-and-advice-from-a-finalist/

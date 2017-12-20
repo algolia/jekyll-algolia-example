@@ -43,5 +43,5 @@ Twitter if you listen, check it up, I'm sure you'll love [Algolia
 Search][2]!
 
 
-[1]: /algoliasearch-jekyll-hyde/assets/ScreenshotTwitter.png
+[1]: /assets/ScreenshotTwitter.png
 [2]: http://www.algolia.com/product/

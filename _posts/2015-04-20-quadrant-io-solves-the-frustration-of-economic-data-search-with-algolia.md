@@ -64,6 +64,6 @@ _Images courtesy of Quadrant.io. Learn more on their
 
 [1]: https://www.quadrant.io/find/#/search
 [2]: https://www.quadrant.io/find/#/search
-[3]: /algoliasearch-jekyll-hyde/assets/searchquadrant1.gif
-[4]: /algoliasearch-jekyll-hyde/assets/Screen-Shot-2015-04-13-at-18.06.28.png
+[3]: /assets/searchquadrant1.gif
+[4]: /assets/Screen-Shot-2015-04-13-at-18.06.28.png
 [5]: https://quadrant.io/

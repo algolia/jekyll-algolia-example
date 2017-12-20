@@ -103,6 +103,6 @@ search functionality throughout GrowthHackers.
 [1]: https://twitter.com/dylanLaCom
 [2]: https://qualaroo.com
 [3]: http://growthhackers.com
-[4]: /algoliasearch-jekyll-hyde/assets/growthacker.jpg
+[4]: /assets/growthacker.jpg
 [5]: http://growthhackers.com/
 [6]: http://www.slideshare.net/andrewmatthewthompson/improving-search-on-growthhackers

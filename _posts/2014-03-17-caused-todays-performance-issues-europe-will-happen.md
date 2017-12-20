@@ -8,7 +8,7 @@ During a few hours on March 17th you may have noticed longer response times
 for some of the queries sent by your users.
 
 ![Slower than average search
-performance](/algoliasearch-jekyll-hyde/assets/slowerthanaverage.png)
+performance](/assets/slowerthanaverage.png)
 
 _Average latency for one of our European clusters on March 17th_
 

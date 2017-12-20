@@ -101,4 +101,4 @@ replaced our main search engine for a better solution thanks to Algolia."
 
 [1]: fr.linkedin.com/pub/vincent-paulin/71/1a3/86a
 [2]: http://www.alittlemarket.com/
-[3]: /algoliasearch-jekyll-hyde/assets/Capture-decran-2014-07-11-17.31.04-1024x486.png
+[3]: /assets/Capture-decran-2014-07-11-17.31.04-1024x486.png

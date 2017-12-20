@@ -86,9 +86,9 @@ Minimal versions of API clients with support of multiple DNS:
 
 [1]: https://nsone.net
 [2]: https://www.algolia.com/dsn
-[3]: /algoliasearch-jekyll-hyde/assets/nsone-dig-latency.png
+[3]: /assets/nsone-dig-latency.png
 [4]: https://threatpost.com/ultradns-dealing-with-ddos-attack/105806
 [5]: https://twitter.com/hashtag/hugops
 [6]: http://www.zdnet.com/article/ddos-attack-on-ultradns-affects-amazon-com-salesforce-com-petco-com/
 [7]: http://en.wikipedia.org/wiki/Top-level_domain
-[8]: /algoliasearch-jekyll-hyde/assets/route53-dig-latency.png
+[8]: /assets/route53-dig-latency.png

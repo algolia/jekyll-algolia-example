@@ -78,6 +78,6 @@ If you're none of the two above, we still think you're awesome!
 Cheers!
 
 
-[1]: /algoliasearch-jekyll-hyde/assets/dallas2.jpg
+[1]: /assets/dallas2.jpg
 [2]: https://www.algolia.com/users/sign_up
 [3]: mailto:support@algolia.com

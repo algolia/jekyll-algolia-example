@@ -25,7 +25,7 @@ course, to order the product! Check it out and let us know what you think!
 Thanks again to our beloved beta testers. Stay tuned for more news!
 
 
-[1]: /algoliasearch-jekyll-hyde/assets/hand-203x300.jpg
+[1]: /assets/hand-203x300.jpg
 [2]: http://www.algolia.com/product/
 [3]: http://www.algolia.com/?video=1
 [4]: http://www.algolia.com/try/

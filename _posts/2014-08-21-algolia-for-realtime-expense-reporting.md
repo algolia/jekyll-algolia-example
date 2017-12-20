@@ -47,6 +47,6 @@ _Images courtesy of Abacus. Learn more _[_on their
 website._][3]
 
 
-[1]: /algoliasearch-jekyll-hyde/assets/Screen-Shot-2014-08-14-at-16.37.25.png
-[2]: /algoliasearch-jekyll-hyde/assets/Screen-Shot-2014-08-14-at-16.38.34.png
+[1]: /assets/Screen-Shot-2014-08-14-at-16.37.25.png
+[2]: /assets/Screen-Shot-2014-08-14-at-16.38.34.png
 [3]: https://www.abacus.com

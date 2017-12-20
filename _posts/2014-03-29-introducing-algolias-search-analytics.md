@@ -42,7 +42,7 @@ their content base. How do you know that your catalogue of products fits your
 users' expectations? Knowing whether or not you provide what your users need
 is critical for your business.
 
-[![Search Analytics: Track top queries](/algoliasearch-jekyll-hyde/assets/Top-search-1024x409.png)](https://blog.algolia.com/wp-content/uploads/2014/03/Top-search.png) Algolia lets you determine which top queries have few or
+[![Search Analytics: Track top queries](/assets/Top-search-1024x409.png)](https://blog.algolia.com/wp-content/uploads/2014/03/Top-search.png) Algolia lets you determine which top queries have few or
 nonexistent results.
 
 ### How does a query evolve over time?
@@ -54,7 +54,7 @@ specific query is typed on an hourly basis.
 
 ![Search Analytics: Track
 popularity of a search query over
-time](/algoliasearch-jekyll-hyde/assets/Trend Louboutin.png) Example: Search
+time](/assets/Trend Louboutin.png) Example: Search
 analytics lets you track the evolution of the query "louboutin" over 24
 hours.
 
@@ -68,7 +68,7 @@ content and has broader implications if the ergonomics of your app is
 optimized.
 
 ![Search Analytics: Top categories used for filtering an
-refinement](/algoliasearch-jekyll-hyde/assets/Top categories.png) Track which
+refinement](/assets/Top categories.png) Track which
 combinations of categories people search for the most.
 
 These new analytics features are included in our existing plans at no extra

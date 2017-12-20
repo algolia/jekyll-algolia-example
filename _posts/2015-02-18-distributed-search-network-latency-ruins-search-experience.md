@@ -82,8 +82,8 @@ Want to find out more about the Algolia experience ?
 
 
 [1]: http://glinden.blogspot.fr/2006/11/marissa-mayer-at-web-20.html
-[2]: /algoliasearch-jekyll-hyde/assets/user-experience.jpg
-[3]: /algoliasearch-jekyll-hyde/assets/DSN-b3ce122c790c492c2f2c8ddbabaae464.jpg
-[4]: /algoliasearch-jekyll-hyde/assets/shot.jpg
-[5]: /algoliasearch-jekyll-hyde/assets/dsn-shot.jpg
+[2]: /assets/user-experience.jpg
+[3]: /assets/DSN-b3ce122c790c492c2f2c8ddbabaae464.jpg
+[4]: /assets/shot.jpg
+[5]: /assets/dsn-shot.jpg
 [6]: https://www.algolia.com/features

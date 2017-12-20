@@ -218,7 +218,7 @@ startups to give it a go!
 
 
 [1]: http://www.seedcamp.com/
-[2]: /algoliasearch-jekyll-hyde/assets/seedcamp.png
+[2]: /assets/seedcamp.png
 [3]: https://twitter.com/PhilippeLaval
 [4]: https://www.writethat.name/)
 [5]: https://twitter.com/wesselkooyman

@@ -46,7 +46,7 @@ and a few apps in the app store! Who said a contact app?
 Stay tuned!
 
 
-[1]: /algoliasearch-jekyll-hyde/assets/CitiesSuggestIPhone5Slide3-300x194.png
+[1]: /assets/CitiesSuggestIPhone5Slide3-300x194.png
 [2]: http://www.yakaz.com/
 [3]: http://developer.apple.com/library/mac/#releasenotes/ObjectiveC/RN-TransitioningToARC/Introduction/Introduction.html
 [4]: https://twitter.com/krmarkel

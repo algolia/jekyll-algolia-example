@@ -39,7 +39,7 @@ Ease of integration just improved again! Your feedback (and pull requests) is
 most welcome.
 
 
-[1]: /algoliasearch-jekyll-hyde/assets/objC.png
+[1]: /assets/objC.png
 [2]: http://blog.algolia.com/discover-our-new-java-android-search-as-a-service-api-clients-at-droidcon-paris/
 [3]: https://github.com/algolia/algoliasearch-client-objc
 [4]: http://www.algolia.com/doc/ios/

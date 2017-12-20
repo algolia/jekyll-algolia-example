@@ -47,8 +47,8 @@ new iOS 6 Passbook. It's opening a golden area for many in the next few
 months!
 
 
-[1]: /algoliasearch-jekyll-hyde/assets/appsworld-300x224.jpg
-[2]: /algoliasearch-jekyll-hyde/assets/blackberry-300x224.jpg
+[1]: /assets/appsworld-300x224.jpg
+[2]: /assets/blackberry-300x224.jpg
 [3]: http://devblog.blackberry.com/2012/09/built-for-blackberry-10k-developer-commitment/
 [4]: http://ceklog.kindel.com/2012/09/26/paying-developers-is-a-bad-idea/
 [5]: http://twistedhq.com
