@@ -101,8 +101,8 @@ Grader][5] by Algolia.
 If you want to share your ideas with us, please leave your comments!
 
 
-[1]: /assets/Capture-decran-2014-01-24-01.26.08-600x150.png
+[1]: ./assets/Capture-decran-2014-01-24-01.26.08-600x150.png
 [2]: http://grader.algolia.com/
-[3]: /assets/Capture-decran-2014-01-17-18.22.23.png
+[3]: ./assets/Capture-decran-2014-01-17-18.22.23.png
 [4]: http://www.algolia.com/pricing/
 [5]: http://grader.algolia.com/

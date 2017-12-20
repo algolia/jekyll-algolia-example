@@ -32,7 +32,7 @@ Special thanks to the RubyMotion team and especially to
 [Joffrey][4] for this integration!
 
 
-[1]: /assets/rubymotion1-270x300.png
+[1]: ./assets/rubymotion1-270x300.png
 [2]: http://www.rubymotion.com/
 [3]: https://github.com/algolia/motion-algolia-search
 [4]: https://twitter.com/joffreyjaffeux

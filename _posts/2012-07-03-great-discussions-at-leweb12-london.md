@@ -59,4 +59,4 @@ We'll soon do a post about this demo. In the meantime, stay tuned!
 [6]: https://twitter.com/#!/portart
 [7]: https://twitter.com/#!/kevinmcdonagh
 [8]: http://www.alexdelivet.com/
-[9]: /assets/citiessuggest-leweb-180x300.png
+[9]: ./assets/citiessuggest-leweb-180x300.png

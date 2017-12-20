@@ -51,5 +51,5 @@ event!_
 [1]: http://sharypic.com
 [2]: http://www.sharypic.com/
 [3]: https://itunes.apple.com/us/app/sharypic-event-photo-sharing/id490922939?mt=8
-[4]: /assets/Sharypic.png
+[4]: ./assets/Sharypic.png
 [5]: https://itunes.apple.com/us/app/sharypic-event-photo-sharing/id490922939?mt=8

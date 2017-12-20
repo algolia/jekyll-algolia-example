@@ -63,7 +63,7 @@ In the end we did receive access to the Apple API, which we may use later on
 to keep the data in sync.
 
 
-[1]: /assets/appstore.jpg
+[1]: ./assets/appstore.jpg
 [2]: http://www.algolia.com/demo/appstore/
 [3]: http://www.grepsr.com
 [4]: http://blog.algolia.com/instant-search-on-crunchbase/

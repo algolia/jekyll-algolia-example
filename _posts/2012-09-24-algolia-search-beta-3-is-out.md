@@ -45,4 +45,4 @@ understand for end-users.
   * Added a version without ARC that allows to target iOS >= 3.0
 
 
-[1]: /assets/CitiesSuggestIOSPortraitSmall-155x300.png
+[1]: ./assets/CitiesSuggestIOSPortraitSmall-155x300.png

@@ -142,13 +142,13 @@ by step tutorials at
 [6]: https://github.com/algolia/meetup-search
 [7]: https://github.com/algolia/twitter-search)
 [8]: https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd
-[9]: /assets/ChromeWebStore_BadgeWBorder_v2_206x58.png
-[10]: /assets/hackpad.com_Y3thzadEtdY_p.233467_1419338581444_capture.gif
+[9]: ./assets/ChromeWebStore_BadgeWBorder_v2_206x58.png
+[10]: ./assets/hackpad.com_Y3thzadEtdY_p.233467_1419338581444_capture.gif
 [11]: http://www.githubarchive.org/
 [12]: https://github.com/algolia/algoliasearch-client-js
 [13]: http://twitter.github.io/typeahead.js/
 [14]: https://www.algolia.com/dsn
-[15]: /assets/hackpad.com_Y3thzadEtdY_p.233467_1419338775543_Screen%20Shot%202014-12-23%20at%2013.46.04.png
-[16]: /assets/hackpad.com_Y3thzadEtdY_p.233467_1419338826276_Screen%20Shot%202014-12-23%20at%2013.45.54.png
+[15]: ./assets/hackpad.com_Y3thzadEtdY_p.233467_1419338775543_Screen%20Shot%202014-12-23%20at%2013.46.04.png
+[16]: ./assets/hackpad.com_Y3thzadEtdY_p.233467_1419338826276_Screen%20Shot%202014-12-23%20at%2013.45.54.png
 [17]: https://github.com/algolia/github-awesome-autocomplete/issues
 [18]: https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd

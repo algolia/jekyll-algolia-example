@@ -75,7 +75,7 @@ _Images courtesy of FanFootage. Learn more on their
 [website][4]_
 
 
-[1]: /assets/vinny.png
-[2]: /assets/eoin-o-driscoll.png
-[3]: /assets/fanfootage.gif
+[1]: ./assets/vinny.png
+[2]: ./assets/eoin-o-driscoll.png
+[3]: ./assets/fanfootage.gif
 [4]: https://fanfootage.com/

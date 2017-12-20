@@ -206,11 +206,11 @@ Search][14].
 
 [1]: http://blog.algolia.com/why-autocomplete-in-twitter-on-mobile-sucks/
 [2]: https://twitter.com/barackobama
-[3]: /assets/Screen-Shot-2013-12-23-at-11.40.09-263x300.png
-[4]: /assets/Screen-Shot-2013-12-23-at-11.42.01-262x300.png
-[5]: /assets/Screen-Shot-2013-12-23-at-11.38.19-263x300.png
+[3]: ./assets/Screen-Shot-2013-12-23-at-11.40.09-263x300.png
+[4]: ./assets/Screen-Shot-2013-12-23-at-11.42.01-262x300.png
+[5]: ./assets/Screen-Shot-2013-12-23-at-11.38.19-263x300.png
 [6]: https://twitter.com/officialadele
-[7]: /assets/Screen-Shot-2013-12-23-at-11.47.52.png
+[7]: ./assets/Screen-Shot-2013-12-23-at-11.47.52.png
 [8]: https://dev.twitter.com/docs/streaming-apis
 [9]: https://github.com/tweetstream/tweetstream
 [10]: https://github.com/bmc/daemonize

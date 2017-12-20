@@ -29,8 +29,8 @@ content/uploads/2013/01/StartInParis.jpg)
 
 
 [1]: http://www.startinparis.com/
-[2]: /assets/StartInParis.gif
+[2]: ./assets/StartInParis.gif
 [3]: http://www.kitchentrotter.com/
 [4]: https://twitter.com/AlexisNiki
 [5]: http://www.rudebaguette.com/2013/02/01/three-storytelling-tips-for-french-startups-when-pitching/
-[6]: /assets/StartInParis-1024x768.jpg
+[6]: ./assets/StartInParis-1024x768.jpg

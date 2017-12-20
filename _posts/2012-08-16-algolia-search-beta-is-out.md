@@ -24,4 +24,4 @@ to report bugs, request features, or anything beta related: beta@algolia.com
 Enjoy!
 
 
-[1]: /assets/searchForEvernoteSmall.png
+[1]: ./assets/searchForEvernoteSmall.png

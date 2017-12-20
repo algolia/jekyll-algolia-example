@@ -59,5 +59,5 @@ _Multi-datacenter support is currently only available for Enterprise
 accounts._
 
 
-[1]: /assets/Screen-Shot-2014-03-13-at-17.51.50-300x199.png
+[1]: ./assets/Screen-Shot-2014-03-13-at-17.51.50-300x199.png
 [2]: http://www.36kr.com/p/209747.html

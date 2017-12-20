@@ -43,5 +43,5 @@ And don't forget your 5 stars ranking ;)
 
 
 [1]: https://itunes.apple.com/gb/app/algolia-smart-contact/id583433043
-[2]: /assets/available-on-iphone-app-store-logo.png
-[3]: /assets/SmartContact-iphone5-489x1024.png
+[2]: ./assets/available-on-iphone-app-store-logo.png
+[3]: ./assets/SmartContact-iphone5-489x1024.png
