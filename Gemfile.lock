@@ -1,5 +1,7 @@
-PATH
-  remote: /home/tim/local/www/algolia/clients/jekyll-algolia
+GIT
+  remote: https://github.com/algolia/jekyll-algolia.git
+  revision: cb45bc2a0a4bcfd2d22cf5fc27274b805989b9d8
+  branch: develop
   specs:
     jekyll-algolia (1.0.0)
       algolia_html_extractor (~> 2.2)
