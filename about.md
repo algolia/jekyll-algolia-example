@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<p>
+  This is an example of how you can integrate the 
+  <a href="https://community.algolia.com/jekyll-algolia/">
+    <code>jekyll-algolia</code>
+  </a> plugin into your Jekyll theme.
+</p>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<p>
+  Check out the 
+  <a href="https://github.com/algolia/jekyll-algolia-example">source</a>
+  or 
+  the <a href="https://community.algolia.com/jekyll-algolia/blog.html">tutorial</a> 
+  for more information.
+</p>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
