@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Why Autocomplete in Twitter Mobile App Sucks
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 [![A better Twitter mobile app experience with Algolia

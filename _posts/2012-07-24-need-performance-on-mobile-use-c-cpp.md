@@ -1,12 +1,7 @@
 ---
 layout: post
 title: C/C++ is still the only way to have high performance on Mobile
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 When it comes to programming languages and performance, you can read all and

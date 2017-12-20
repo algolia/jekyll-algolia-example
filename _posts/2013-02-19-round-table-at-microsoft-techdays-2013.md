@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Round table at Microsoft TechDays 2013
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 I had the pleasure to be invited by [David

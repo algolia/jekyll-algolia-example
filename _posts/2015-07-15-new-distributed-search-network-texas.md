@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Welcome Texas!
-author:
-  login: gaetan
-  email: gaetan@algolia.com
-  display_name: gaetan
-  first_name: Gaetan
-  last_name: Gachet
+author: Gaetan
 ---
 
 <p class="deprecation-notice">

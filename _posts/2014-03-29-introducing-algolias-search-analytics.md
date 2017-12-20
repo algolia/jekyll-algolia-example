@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Introducing Search Analytics: Know Your Users Better'
-author:
-  login: gaetan
-  email: gaetan@algolia.com
-  display_name: gaetan
-  first_name: Gaetan
-  last_name: Gachet
+author: Gaetan
 ---
 
 This week we have released a much requested feature by our customers:

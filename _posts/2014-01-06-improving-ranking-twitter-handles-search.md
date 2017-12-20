@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Improving Search for Twitter Handles
-author:
-  login: sylvain
-  email: sylvain@algolia.com
-  display_name: Sylvain Utard
-  first_name: Sylvain
-  last_name: Utard
+author: Sylvain
 ---
 
 Hello Twitter,

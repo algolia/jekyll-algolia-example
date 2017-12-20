@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Great discussions at LeWeb'12 London
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 On June 19 & 20th, I had the chance to participate to [LeWeb 2012

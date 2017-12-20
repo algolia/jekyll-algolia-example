@@ -1,12 +1,7 @@
 ---
 layout: post
 title: The Ordeal of Obtaining an Apple Developer Professional Account
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 I recently had a pretty bad user experience when I upgraded my personal Apple

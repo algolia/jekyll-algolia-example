@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Smart Contacts Demo Hits the App Store!
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 After going back and forth a few times with Apple, we are really happy to

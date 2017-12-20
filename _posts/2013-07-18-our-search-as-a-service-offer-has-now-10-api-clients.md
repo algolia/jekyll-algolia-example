@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Our Search-as-a-Service offer has now 10 API Clients!
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 We recently reached a new milestone towards the release of our Search as a

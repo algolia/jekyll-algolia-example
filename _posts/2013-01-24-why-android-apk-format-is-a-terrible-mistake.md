@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Why Android APK Format is a Mistake
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 When I started to develop for Android it appeared to me that an APK file was

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: AfterShip Leverages Algolia's Search as a Service to Track 10 Million Packages Around The World
-author:
-  login: marie-auxille
-  email: marie-auxille.denis@algolia.com
-  display_name: Marie-Auxille Denis
-  first_name: Marie-Auxille
-  last_name: Denis
+author: Marie-Auxille
 ---
 
 Algolia Speeds Up Search Result Delivery Times From 10 Seconds To 250

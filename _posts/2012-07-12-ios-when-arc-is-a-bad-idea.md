@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'iOS: When Automatic Reference Counting is a Bad Idea'
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 I started developing for iOS in 2009 by learning about the Objective-C

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Introducing a RubyMotion search gem by Algolia!
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 [![Rubymotion search gem by Algolia is now

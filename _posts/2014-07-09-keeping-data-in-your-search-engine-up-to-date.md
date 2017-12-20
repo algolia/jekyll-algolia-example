@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Keeping Data in your Search Engine Up-to-Date
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 When we developed the first version of Algolia Search, we put a lot of effort

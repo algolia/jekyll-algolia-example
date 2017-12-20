@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Never, Ever, Hinder the Use of your Products!
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 One of the worst user experiences I have ever had with software was with the

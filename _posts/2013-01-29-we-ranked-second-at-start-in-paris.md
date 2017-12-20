@@ -1,12 +1,7 @@
 ---
 layout: post
 title: We ranked Second at Start In Paris!
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 [Start In Paris][1] is a monthly event where 5

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Instant Search through the iOS App Store
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 [![App Store][1]](http://www.algolia.com/demo/appstore/)If

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: New iOS and OS X API clients for our Search-as-a-Service offer
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 [![Build new things with our iOS and OS X API

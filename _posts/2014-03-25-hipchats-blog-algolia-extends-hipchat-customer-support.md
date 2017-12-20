@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'On HipChat''s blog: Algolia extends HipChat to customer support'
-author:
-  login: sylvain
-  email: sylvain@algolia.com
-  display_name: Sylvain Utard
-  first_name: Sylvain
-  last_name: Utard
+author: Sylvain
 ---
 
 As you may probably know, we're using HipChat to build our live-help chat. If

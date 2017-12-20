@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Discover our 6 new Search-as-a-Service API Clients!
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 We [launched the private beta][1] of our Search-as-a-Service offer two months ago. In that time we

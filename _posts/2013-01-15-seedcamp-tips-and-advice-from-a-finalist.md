@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Seedcamp: Tips and Advice From a Finalist - The Algolia Blog'
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 About one month ago, we were given the opportunity to participate in

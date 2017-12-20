@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Quadrant.io solves the frustration of economic data search with Algolia
-author:
-  login: marie-auxille
-  email: marie-auxille.denis@algolia.com
-  display_name: Marie-Auxille Denis
-  first_name: Marie-Auxille
-  last_name: Denis
+author: Marie-Auxille
 ---
 
 Browsing the cumbersome interfaces of government websites in the lookout for

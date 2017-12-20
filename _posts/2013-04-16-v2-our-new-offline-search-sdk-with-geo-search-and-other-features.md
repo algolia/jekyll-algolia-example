@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'V2: Search by Geolocation in our Offline Search SDK'
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 While our latest news focused on the Algolia Search cloud offer (you can still

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Algolia Search Beta 2 is out!
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 We are pleased to announce the launch of Algolia Search Beta 2, our second

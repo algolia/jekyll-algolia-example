@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Algolia Search Offline SDK now supports Cocoapods
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 We have great news for our iOS and OS X users: our Offline SDK is now

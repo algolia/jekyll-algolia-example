@@ -1,12 +1,7 @@
 ---
 layout: post
 title: When Solid State Drives are not that solid
-author:
-  login: adam
-  email: adam@algolia.com
-  display_name: Adam Surak
-  first_name: Adam
-  last_name: Surak
+author: Adam
 ---
 
 It looked just like another page in the middle of the night. One of the

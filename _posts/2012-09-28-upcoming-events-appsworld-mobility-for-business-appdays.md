@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Upcoming Mobile App Conferences: Apps World, Mobility for Business, Appdays'
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 With the summer behind us, the period is pretty active. It's really difficult

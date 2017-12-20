@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Realtime Search: Security and our Javascript Client'
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 _**Edit: As suggested on [Hacker

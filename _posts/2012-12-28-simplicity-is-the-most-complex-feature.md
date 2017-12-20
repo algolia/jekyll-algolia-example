@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Simplicity is the most Complex Feature!
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 I've been convinced for a long time that simplicity is the most important

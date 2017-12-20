@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Algolia Heroku add-on enters general availability
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 We launched the first beta of our Heroku add-on in October 2013 and are now

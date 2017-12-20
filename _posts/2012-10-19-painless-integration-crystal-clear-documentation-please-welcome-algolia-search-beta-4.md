@@ -2,12 +2,7 @@
 layout: post
 title: Painless integration, crystal clear documentation, please welcome Algolia Search
   beta 4!
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 [![][1]](https://blog.algolia.com

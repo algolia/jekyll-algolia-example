@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'FanFootage: Solving the Search problem with Algolia'
-author:
-  login: marie-auxille
-  email: marie-auxille.denis@algolia.com
-  display_name: Marie-Auxille Denis
-  first_name: Marie-Auxille
-  last_name: Denis
+author: Marie-Auxille
 ---
 
 **The following post is a guest post by Eoin O'Driscoll (web developer), and Vinny Glennon (co-founder) of FanFootage.com**

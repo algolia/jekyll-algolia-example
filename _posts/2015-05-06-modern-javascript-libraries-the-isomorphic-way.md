@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Modern JavaScript libraries: the isomorphic way'
-author:
-  login: vvo
-  email: vincent@algolia.com
-  display_name: Vincent
-  first_name: Vincent
-  last_name: Voyer
+author: Vincent
 ---
 
 Algolia's DNA is really about performance. We want our search engine to answer

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Concertwith.me''s Competitive Edge: A Revamped Search UX with Algolia'
-author:
-  login: kevin
-  email: shipowlata@gmail.com
-  display_name: kevin
-  first_name: Kevin
-  last_name: Granger
+author: Kevin
 ---
 
 There are a lot of music discovery apps on the market, yet sifting through

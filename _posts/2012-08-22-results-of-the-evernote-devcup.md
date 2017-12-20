@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Results of the Evernote DevCup
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 Time flies! I just realized we didn't offer any feedback about our

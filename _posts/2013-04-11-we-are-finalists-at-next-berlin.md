@@ -1,12 +1,7 @@
 ---
 layout: post
 title: We are NEXT Berlin Finalists!
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 [![NEXT Berlin Finalists][1]](http://nextberlin.eu/2013/04/next13-start-up-pitch-these-are-

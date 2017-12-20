@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Sharypic benefits from Algolia Search!
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 Demonstrating how Algolia Search functions in the wild, in this post we will

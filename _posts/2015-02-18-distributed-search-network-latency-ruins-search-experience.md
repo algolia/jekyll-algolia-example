@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Don't let network latency ruin the search experience of your international users
-author:
-  login: marie-auxille
-  email: marie-auxille.denis@algolia.com
-  display_name: Marie-Auxille Denis
-  first_name: Marie-Auxille
-  last_name: Denis
+author: Marie-Auxille
 ---
 
 At Algolia, we allow developers to provide a unique interactive search

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Android NDK: How to Reduce Binaries Size - The Algolia Blog'
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 When we started Algolia Development for Android, binary size optimization was

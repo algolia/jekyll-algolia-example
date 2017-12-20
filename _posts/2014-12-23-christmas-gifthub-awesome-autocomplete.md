@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Github Awesome Autocomplete browser extension for Chrome and Firefox
-author:
-  login: sylvain
-  email: sylvain@algolia.com
-  display_name: Sylvain Utard
-  first_name: Sylvain
-  last_name: Utard
+author: Sylvain
 ---
 
 By working every day on building the best search engine, we've become obsessed

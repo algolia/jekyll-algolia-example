@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Inside GrowthHackers.com's Implementation of Algolia
-author:
-  login: maxime
-  email: maxime.locqueville@algolia.com
-  display_name: maxime
-  first_name: Maxime
-  last_name: Locqueville
+author: Maxime
 ---
 
 We interviewed [Dylan La Com][1], Growth Product

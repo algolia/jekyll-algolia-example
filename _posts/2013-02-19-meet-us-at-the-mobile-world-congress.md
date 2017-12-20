@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Meet us at the Mobile World Congress! - The Algolia Blog
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 We'll be in Barcelona next week for the Mobile World Congress! Last year, more

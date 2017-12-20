@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Why JSONP is still Mandatory
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 At Algolia, we are convinced that search queries need to be sent directly from

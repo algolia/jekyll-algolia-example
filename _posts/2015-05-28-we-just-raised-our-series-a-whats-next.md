@@ -1,12 +1,7 @@
 ---
 layout: post
 title: We just raised our Series A. What's next?
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 You may have heard last week in the [press](https://www.algolia.com/press),

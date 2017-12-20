@@ -1,12 +1,7 @@
 ---
 layout: post
 title: New experimental version of Hacker News Search built with Algolia
-author:
-  login: kevin
-  email: shipowlata@gmail.com
-  display_name: kevin
-  first_name: Kevin
-  last_name: Granger
+author: Kevin
 ---
 
 Exactly a year ago, we began to power the Hacker News search engine (see our

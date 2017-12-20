@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'FREE Search SDK: Algolia is Now Available for Free!'
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 Yes, you read that right! We're not talking about a free trial, but of a

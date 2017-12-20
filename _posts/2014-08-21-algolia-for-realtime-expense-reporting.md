@@ -1,12 +1,7 @@
 ---
 layout: post
 title: How Abacus Leverages Algolia for Realtime Expense Reporting
-author:
-  login: kevin
-  email: shipowlata@gmail.com
-  display_name: kevin
-  first_name: Kevin
-  last_name: Granger
+author: Kevin
 ---
 
 When one thinks of expense reporting, speed is far from the first descriptor

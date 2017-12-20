@@ -1,12 +1,7 @@
 ---
 layout: post
 title: A New Way to Handle Synonyms in a Search Engine
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 We recently added the support for Synonyms in Algolia! It has been the most

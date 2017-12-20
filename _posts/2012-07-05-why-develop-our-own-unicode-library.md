@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Why develop our own Unicode Library? - The Algolia Blog
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 At one time or another, most developers come across bugs or problems with

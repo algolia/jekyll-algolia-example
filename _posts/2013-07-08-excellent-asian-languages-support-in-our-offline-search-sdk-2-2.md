@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Asian Language support in our Offline Search SDK 2.2
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 Like most search engines, version 2.1 did not include any specific processing

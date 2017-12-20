@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Deploying Algolia to Search on more than 2 Million Products
-author:
-  login: maxime
-  email: maxime@algolia.com
-  display_name: maxime
-  first_name: Maxime
-  last_name: L
+author: Maxime
 ---
 
 The following post is an interview of [Vincent Paulin][1], R&D Manager at [A Little

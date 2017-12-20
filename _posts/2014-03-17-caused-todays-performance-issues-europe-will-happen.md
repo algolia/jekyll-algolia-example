@@ -1,12 +1,7 @@
 ---
 layout: post
 title: What Caused Today's Search Performance Issues In Europe and Why It Will Not Happen Again
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 During a few hours on March 17th you may have noticed longer response times

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Online Search in the Cloud: Version is in Beta!'
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 Imagine all the power and simplicity of Algolia Search, but available online,

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Search inside websites and mobile apps is strategic to engage visitors - Part 1
-author:
-  login: marie-auxille
-  email: marie-auxille.denis@algolia.com
-  display_name: Marie-Auxille Denis
-  first_name: Marie-Auxille
-  last_name: Denis
+author: Marie-Auxille
 ---
 
 In an economic environment where the competition for end-users’ attention and

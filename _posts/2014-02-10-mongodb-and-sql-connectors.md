@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Introducing Easier Onboarding and Activation with Connectors
-author:
-  login: sylvain
-  email: sylvain@algolia.com
-  display_name: Sylvain Utard
-  first_name: Sylvain
-  last_name: Utard
+author: Sylvain
 ---
 
 Most of our users are **technical**. They love writing code, and we love

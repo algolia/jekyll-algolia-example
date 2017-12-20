@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Algolia Now Provides Realtime Search in Asia!
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 [![New datacenter allows realtime search in Asia][1]](http://blog.algolia.com/added-asian-

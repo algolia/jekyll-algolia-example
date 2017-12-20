@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Black Thursday DNS issue
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 Today we had a severe DNS issue that impacted some of our users during a total

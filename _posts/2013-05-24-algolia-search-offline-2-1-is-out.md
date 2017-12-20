@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Algolia Search Offline 2.1 is out!
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 We are pleased to introduce a new version of Algolia Search Offline for iOS,

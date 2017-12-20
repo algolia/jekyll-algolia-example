@@ -1,12 +1,7 @@
 ---
 layout: post
 title: DNS fallback for better resilience
-author:
-  login: adam
-  email: adam@algolia.com
-  display_name: Adam Surak
-  first_name: Adam
-  last_name: Surak
+author: Adam
 ---
 
 At Algolia, we are obsessed with finding a way to have a 99.9999% available

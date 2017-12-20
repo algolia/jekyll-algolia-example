@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Postmortem of today's 8min indexing downtime
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 Today (Jan 29) at 9:30pm UTC, our service experienced an 8 minute partial

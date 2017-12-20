@@ -1,12 +1,7 @@
 ---
 layout: post
 title: A few thoughts after Apps World
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 Last week provided me with an occasion to feel the tempo of the mobile

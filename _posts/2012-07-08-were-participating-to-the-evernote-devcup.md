@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Search for Evernote: We''re in the Evernote DevCup!'
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 You mint already be familiar with Evernote. It's a great company that delivers

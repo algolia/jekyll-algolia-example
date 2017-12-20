@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Algolia opened its 4th datacenter is in California!
-author:
-  login: nicolas
-  email: nicolas@algolia.com
-  display_name: nicolas
-  first_name: Nicolas
-  last_name: Dessaigne
+author: Nicolas
 ---
 
 Do you know the 3 most important things in search? Speed, speed, and speed!

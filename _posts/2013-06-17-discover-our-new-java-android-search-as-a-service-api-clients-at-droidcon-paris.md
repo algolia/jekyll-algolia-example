@@ -1,12 +1,7 @@
 ---
 layout: post
 title: New Java & Android Search-as-a-Service API Clients at DroidCon Paris!
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 Our Search-as-a-Service offer is progressing toward its official release. We

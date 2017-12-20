@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Jadopado delivers instasearch for mobile and web powered by Algolia
-author:
-  login: marie-auxille
-  email: marie-auxille.denis@algolia.com
-  display_name: Marie-Auxille Denis
-  first_name: Marie-Auxille
-  last_name: Denis
+author: Marie-Auxille
 ---
 
 ## Algolia Increases Online Search Sessions By 60% and Unique Mobile Searches

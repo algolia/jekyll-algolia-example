@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Hacker News search: 6.5 million articles and comments at your fingertips'
-author:
-  login: sylvain
-  email: sylvain@algolia.com
-  display_name: Sylvain Utard
-  first_name: Sylvain
-  last_name: Utard
+author: Sylvain
 ---
 
 We are [Hacker News][1] readers and probably just

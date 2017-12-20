@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 'Search Grader by Algolia: How does your search engine perform?'
-author:
-  login: maxime
-  email: maxime.locqueville@algolia.com
-  display_name: maxime
-  first_name: Maxime
-  last_name: Locqueville
+author: Maxime
 ---
 
 [![algolia-search-grader][1]](http://grader.algolia.com)

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: Common Misperceptions about Search as a Service
-author:
-  login: julien
-  email: julien.lemoine@algolia.com
-  display_name: julien
-  first_name: Julien
-  last_name: Lemoine
+author: Julien
 ---
 
 Since the first SaaS IPO by [salesforce.com](http://www.salesforce.com/), the
