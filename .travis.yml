@@ -7,3 +7,7 @@ script:
   - bundle exec jekyll algolia
 rvm:
  - 2.4
+notifications:
+  email:
+    on_success: never
+    on_failure: never
