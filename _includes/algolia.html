@@ -18,7 +18,10 @@ const search = instantsearch({
 });
 
 const hitTemplate = function(hit) {
-  const date = moment.unix(hit.date).format('MMM D, YYYY');
+  let date = '';
+  if (hit.date) {
+    date = moment.unix(hit.date).format('MMM D, YYYY');
+  }
   const url = hit.url;
   const title = hit._highlightResult.title.value;
   const content = hit._highlightResult.html.value;
