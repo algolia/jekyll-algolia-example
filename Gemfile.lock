@@ -1,3 +1,16 @@
+PATH
+  remote: /home/tim/local/www/algolia/clients/jekyll-algolia
+  specs:
+    jekyll-algolia (1.0.1)
+      algolia_html_extractor (~> 2.2)
+      algoliasearch (~> 1.18)
+      filesize (~> 0.1)
+      jekyll (~> 3.0)
+      jekyll-paginate (~> 1.1)
+      json (~> 2.0)
+      nokogiri (~> 1.6)
+      verbal_expressions (~> 0.1.5)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -27,15 +40,6 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
-    jekyll-algolia (1.0.1)
-      algolia_html_extractor (~> 2.2)
-      algoliasearch (~> 1.18)
-      filesize (~> 0.1)
-      jekyll (~> 3.0)
-      jekyll-paginate (~> 1.1)
-      json (~> 2.0)
-      nokogiri (~> 1.6)
-      verbal_expressions (~> 0.1.5)
     jekyll-feed (0.9.2)
       jekyll (~> 3.3)
     jekyll-paginate (1.1.0)
@@ -77,7 +81,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.6.2)
-  jekyll-algolia (~> 1.0.1)
+  jekyll-algolia!
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
   tzinfo-data

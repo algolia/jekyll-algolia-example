@@ -4,9 +4,6 @@ title: Algolia Search is Out!
 author: Nicolas
 ---
 
-Test!!!!...
-
-
 This release also means that you can now integrate it directly into your apps
 and publish them! We wanted to have a simple and clear pricing plan: You can
 have all the benefits of Algolia Search in one Android or iOS App for only
