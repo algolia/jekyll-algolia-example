@@ -28,7 +28,9 @@ github_username:  jekyll
 markdown: kramdown
 theme: minima
 
+
+# Algolia config
 algolia:
    application_id: MXM0JWJNIW
-   index_name: live-demo
+   index_name: 
 
