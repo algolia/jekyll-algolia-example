@@ -27,22 +27,8 @@ github_username:  jekyll
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
 
 algolia:
-   application_id: latency
-   index_name: jekyll-algolia-example
-   search_only_api_key: 12b7c60f33a700558528c3dde43b47f1
+   application_id: MXM0JWJNIW
+   index_name: live-demo
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
