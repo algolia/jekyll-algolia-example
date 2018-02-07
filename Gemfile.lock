@@ -27,7 +27,7 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
-    jekyll-algolia (1.0.1)
+    jekyll-algolia (1.1.0)
       algolia_html_extractor (~> 2.2)
       algoliasearch (~> 1.18)
       filesize (~> 0.1)
@@ -54,7 +54,7 @@ GEM
     mini_portile2 (2.3.0)
     minima (2.1.1)
       jekyll (~> 3.3)
-    nokogiri (1.8.1)
+    nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
@@ -77,10 +77,9 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.6.2)
-  jekyll-algolia (~> 1.0.1)
+  jekyll-algolia (~> 1.1)
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
-  tzinfo-data
 
 BUNDLED WITH
    1.16.1
