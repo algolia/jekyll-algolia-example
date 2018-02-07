@@ -32,5 +32,5 @@ theme: minima
 # Algolia config
 algolia:
    application_id: MXM0JWJNIW
-   index_name: 
+   index_name:
 
