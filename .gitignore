@@ -8,4 +8,5 @@ npm-debug.log
 tmp
 *~
 _algolia_api_key
+._algolia_api_key
 _site
