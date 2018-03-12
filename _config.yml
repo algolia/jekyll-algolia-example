@@ -33,7 +33,7 @@ plugins:
 algolia:
    application_id: MXM0JWJNIW
    index_name: jekyll-algolia-example
-   search_only_api_key: 12b7c60f33a700558528c3dde43b47f1
+   search_only_api_key: ff7b0847d8705c279222272303e68527
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
