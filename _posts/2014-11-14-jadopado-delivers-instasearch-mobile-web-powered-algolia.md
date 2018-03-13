@@ -4,8 +4,7 @@ title: Jadopado delivers instasearch for mobile and web powered by Algolia
 author: Marie-Auxille
 ---
 
-## Algolia Increases Online Search Sessions By 60% and Unique Mobile Searches
-by 270%
+## Algolia Increases Online Search Sessions By 60% and Unique Mobile Searches by 270%
 
 **The following post is a guest post by Omar Kassim, co-founder of [JadoPado][1].**
 
