@@ -20,7 +20,7 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
-  gem 'jekyll-algolia', path: "/home/tim/local/www/algolia/clients/jekyll-algolia/"
+  gem 'jekyll-algolia', path: "/home/tim/local/www/algolia/jekyll/jekyll-algolia"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
