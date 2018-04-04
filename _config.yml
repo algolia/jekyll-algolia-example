@@ -34,9 +34,9 @@ plugins:
   - jekyll-feed
 
 algolia:
-   application_id: MXM0JWJNIW
+   application_id: C3C0Z6BH1C
    index_name: jekyll-algolia-example
-   search_only_api_key: ff7b0847d8705c279222272303e68527
+   search_only_api_key: ef1d976b845c1a2770b28010f9b83e8d
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
