@@ -18,6 +18,146 @@ Google guys got it: they’ve made moving between websites effortless. What
 people don’t find easily with you, Google will find it for them, and it may be
 with your competitors. Great site search reinforces retention but also brand
 awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
+Powerful and reliable Web search engines such as Google have created deeply
+rooted expectations for a responsive and intuitive access to online content
+and your users expect the same responsive experience once they access your
+service. Yet most websites and mobile applications still provide a frustrating
+and cumbersome navigation and exploration experience, supported by a poor
+internal search engine. Besides, people cannot stand wasting time and the
+Google guys got it: they’ve made moving between websites effortless. What
+people don’t find easily with you, Google will find it for them, and it may be
+with your competitors. Great site search reinforces retention but also brand
+awareness and customer loyalty.
 
 ## End-users have high expectations when it comes to search
 
