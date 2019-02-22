@@ -6,7 +6,7 @@ author: Sylvain
 
 Most of our users are **technical**. They love writing code, and we love
 providing API clients in the major programming languages to them (we are
-currently [supporting 10 platforms][1].
+currently [supporting 10 platforms][1]).
 
 They are doers. They love prototyping. Just like us, they work for startups
 which need to move fast, and get things done, keeping in mind that done is
@@ -106,7 +106,7 @@ Or
   * Patch your application/website code to replicate every add/delete/update operations to our API: 
     * real-time,
     * consistent & durable,
-    * a little intrusive to some people, even though it is only a few lines of code ([see our documentation][5]
+    * a little intrusive to some people, even though it is only a few lines of code ([see our documentation][5])
 
 ## After: Introducing connectors
 
@@ -182,11 +182,11 @@ Those connectors are open-source and we will continue to improve them based on
 your feedback. Your feature requests are welcome!
 
 
-[1]: http://www.algolia.com/doc/apiclients)
+[1]: http://www.algolia.com/doc
 [2]: http://www.algolia.com/doc
 [3]: http://www.algolia.com/doc/rest
 [4]: http://www.codinghorror.com/blog/2005/08/how-to-be-lazy-dumb-and-successful.html
-[5]: http://www.algolia.com/doc)
+[5]: http://www.algolia.com/doc
 [6]: https://github.com/algolia/jdbc-java-connector
 [7]: https://github.com/algolia/jdbc-java-connector
 [8]: https://github.com/algolia/mongo-connector
