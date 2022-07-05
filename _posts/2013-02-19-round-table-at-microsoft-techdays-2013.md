@@ -29,5 +29,5 @@ covered Algolia in the IT press.
 [1]: https://twitter.com/deltakosh
 [2]: http://www.microsoft.com/france/mstechdays/
 [3]: http://blog.maneu.net
-[4]: fr.linkedin.com/pub/guillaume-leborgne/27/5b7/48
+[4]: https://fr.linkedin.com/pub/guillaume-leborgne/27/5b7/48
 [5]: http://www.microsoft.com/france/microsoft-en-france/microsoft-france/equipe-dirigeante/jean-ferre.aspx
