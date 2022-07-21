@@ -4,6 +4,8 @@ title: Round table at Microsoft TechDays 2013
 author: Nicolas
 ---
 
+test
+
 I had the pleasure to be invited by [David
 Catuhe][1] to participate in a round table about
 Windows8 development during [Microsoft TechDays
